@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saitehith28&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saitehith28)
 
 ### 📊 GitHub Stats
 
