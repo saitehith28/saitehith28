@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saitehith28&theme=github-dark&hide_border=true)
+
+### 📊 GitHub Stats
+
+![Tehith's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitehith28&show_icons=true&theme=github_dark)
