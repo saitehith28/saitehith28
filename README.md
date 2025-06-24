@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saitehith28)
+![GitHub streak badge](https://img.shields.io/badge/GitHub%20Streak-Active%20🔥-orange)
 
 ### 📊 GitHub Stats
 
