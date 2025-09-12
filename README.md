@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**saitehith28/saitehith28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+**saitehith28/saitehith28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
